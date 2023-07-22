@@ -35,3 +35,4 @@ Urban -- A factor with levels No and Yes to indicate whether the store is in an 
 US -- A factor with levels No and Yes to indicate whether the store is in the US or not
 
  
+
