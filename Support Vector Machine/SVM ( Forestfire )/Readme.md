@@ -1,5 +1,8 @@
 # Problem Statment
+
 classify the Size_Categorie using SVM
+
+# Dataset information 
 
 month	month of the year: 'jan' to 'dec'
 
